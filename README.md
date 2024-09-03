@@ -1,0 +1,1 @@
+# Inform-tica-GPI-1---2-SEM-2024
