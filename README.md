@@ -9,7 +9,7 @@ O tecnólogo em Gestão da Produção Industrial trabalha para melhorar a qualid
 Ensinar competências em software, programação, análise de dados e outras ferramentas relevantes.
 Proporcionar conhecimentos que são frequentemente exigidos pelos empregadores, como proficiência em pacotes de escritório, programação e gerenciamento de dados.
 
- ### Ferramentas 
+ ## Ferramentas 
  > Pacote Office
   
 
