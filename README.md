@@ -1,4 +1,16 @@
 # Inform-tica-GPI-1---2-SEM-2024
 
+## Sobre o curso
 
-https://raullesteves.medium.com/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8****
+O tecnólogo em Gestão da Produção Industrial trabalha para melhorar a qualidade e a produtividade de uma indústria, atuando no planejamento das atividades, no controle da produção, na criação e no teste de produtos.
+
+## Objetivo da Aula
+
+Ensinar competências em software, programação, análise de dados e outras ferramentas relevantes.
+Proporcionar conhecimentos que são frequentemente exigidos pelos empregadores, como proficiência em pacotes de escritório, programação e gerenciamento de dados.
+
+ ### Ferramentas 
+ > Pacote Office
+  
+
+
