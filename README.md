@@ -11,6 +11,12 @@ Proporcionar conhecimentos que são frequentemente exigidos pelos empregadores, 
 
  ## Ferramentas 
  > Pacote Office
-  
+ > Power BI
+
+## Atividade Aula 7 - Power BI
+
+[Arquivo da Atividade](https://github.com/CamilaMoraes913/Inform-tica-GPI-1---2-SEM-2024/blob/b505a0140fd4898564e6807b0222446964b05ebe/Tarefa%201_Power%20BI_Camila.pbix)
+
+![image](https://github.com/user-attachments/assets/ac170834-08d8-43c6-a145-82dde25cb7d7)
 
 
