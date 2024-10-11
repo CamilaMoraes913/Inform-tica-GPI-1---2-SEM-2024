@@ -19,4 +19,9 @@ Proporcionar conhecimentos que são frequentemente exigidos pelos empregadores, 
 
 ![image](https://github.com/user-attachments/assets/ac170834-08d8-43c6-a145-82dde25cb7d7)
 
+## Atividade Aula - Power BI 
+[Arquivo da Atividade](https://github.com/CamilaMoraes913/Inform-tica-GPI-1---2-SEM-2024/blob/3eb6cd2838cd4092ec206f8d872e4d05fb6ade6e/Tarefa%202%20Power%20BI%20dados%20abertos%20e%20Github.pbix)
+![image](https://github.com/user-attachments/assets/76c3af94-652c-41ed-bed3-ec11bfb2333a)
 
+## Resultados 
+A partir deste gráfico é possível identifcar: Gastos totais de cada presidente; Gastos totais por categoria de custo; Fotos dos presidentes; Gastos anuais de cada presidente; Qual foi o presidente que teve mais gastos; Qual foi a categoria que mais tiveram gastos.
