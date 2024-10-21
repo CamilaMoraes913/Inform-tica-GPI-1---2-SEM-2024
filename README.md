@@ -25,3 +25,12 @@ Proporcionar conhecimentos que são frequentemente exigidos pelos empregadores, 
 
 ## Resultados 
 A partir deste gráfico é possível identifcar: Gastos totais de cada presidente; Gastos totais por categoria de custo; Fotos dos presidentes; Gastos anuais de cada presidente; Qual foi o presidente que teve mais gastos; Qual foi a categoria que mais tiveram gastos.
+
+## Atividade Aula - Power BI - KPI
+[Arquivo da Atividade KPI 21/10/2024](https://github.com/CamilaMoraes913/Inform-tica-GPI-1---2-SEM-2024/blob/3dd81509ec89c62cfd2feef0ac5ba74b5fec14c4/CamilafiliaisDAX.pbix)
+
+### Aba de Preparo do KPI
+![image](https://github.com/user-attachments/assets/9130372a-bdfc-49db-8c64-4958eef440e8)
+
+### Aba KPI
+![image](https://github.com/user-attachments/assets/db9a2ab0-3317-4efe-83cb-262e3e8dd171)
