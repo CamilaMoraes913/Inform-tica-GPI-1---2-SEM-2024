@@ -48,3 +48,12 @@ A partir deste gráfico é possível identifcar: Gastos totais de cada president
 
 ### Aba KPI
 ![image](https://github.com/user-attachments/assets/db9a2ab0-3317-4efe-83cb-262e3e8dd171)
+
+## Metas usando os Dados Abertos 
+
+### Indicador 
+(![image](https://github.com/user-attachments/assets/90ca0ef7-9448-4e9b-89a2-bf61ca7a342f)
+
+
+
+
