@@ -14,11 +14,12 @@ Proporcionar conhecimentos que são frequentemente exigidos pelos empregadores, 
  > Power BI
 
 
-## Atividade com Dados Abertos
+## Atividade com Dados Abertos no Excel 
 
-[Arquivo da Atividade](https://github.com/CamilaMoraes913/Inform-tica-GPI-1---2-SEM-2024/blob/3fe20f2cb2035fdff8ad82b83a14dda35a4a7d07/Tarefa%202%20Power%20BI%20dados%20abertos%20e%20Github.pbix)
+[Arquivo da Atividade](https://github.com/CamilaMoraes913/Inform-tica-GPI-1---2-SEM-2024/blob/27044d6b2caf9f7505a306696b806e0a0ec64ad7/Usando%20f%C3%B3rmulas%20e%20dados%20abertos_Camila%20GPI%201.xlsx)
 
-
+![image](https://github.com/user-attachments/assets/7bdbb2ae-c7e5-4196-ada1-9e497391bd56)
+![image](https://github.com/user-attachments/assets/1268d524-2d25-4743-83c7-9d250583a3e4)
 
 
 ## Atividade Aula 7 - Power BI
