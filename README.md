@@ -13,6 +13,14 @@ Proporcionar conhecimentos que são frequentemente exigidos pelos empregadores, 
  > Pacote Office
  > Power BI
 
+
+## Atividade com Dados Abertos
+
+[Arquivo da Atividade](https://github.com/CamilaMoraes913/Inform-tica-GPI-1---2-SEM-2024/blob/3fe20f2cb2035fdff8ad82b83a14dda35a4a7d07/Tarefa%202%20Power%20BI%20dados%20abertos%20e%20Github.pbix)
+
+
+
+
 ## Atividade Aula 7 - Power BI
 
 [Arquivo da Atividade](https://github.com/CamilaMoraes913/Inform-tica-GPI-1---2-SEM-2024/blob/b505a0140fd4898564e6807b0222446964b05ebe/Tarefa%201_Power%20BI_Camila.pbix)
