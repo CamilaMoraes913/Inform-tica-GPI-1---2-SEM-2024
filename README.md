@@ -52,7 +52,7 @@ A partir deste gráfico é possível identifcar: Gastos totais de cada president
 ## Metas usando os Dados Abertos 
 
 ### Indicador 
-(![image](https://github.com/user-attachments/assets/90ca0ef7-9448-4e9b-89a2-bf61ca7a342f)
+![image](https://github.com/user-attachments/assets/90ca0ef7-9448-4e9b-89a2-bf61ca7a342f)
 
 
 
