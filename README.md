@@ -52,6 +52,11 @@ A partir deste gráfico é possível identifcar: Gastos totais de cada president
 ## Metas usando os Dados Abertos 
 
 ### Indicador 
+
+Os dados abertos utilizados para desenvolver esse indicador mensuram os gastos que presidentes do Brasil tiveram ao longo dos anos, então a meta definida é de redução de gastos a cada ano. 
+
+O indicador fica positivo quando os gastos totais do período são 15% menores em relação ao ano anterior. 
+
 ![image](https://github.com/user-attachments/assets/90ca0ef7-9448-4e9b-89a2-bf61ca7a342f)
 
 
