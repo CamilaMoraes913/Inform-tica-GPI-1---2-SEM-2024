@@ -63,7 +63,7 @@ O indicador fica positivo quando os gastos totais do período são 15% menores e
 
 O aplicativo criado tem o objetivo de controlar os pedidos de uma lanchonete. Nesse aplicativo é possível cadastrar observações nos clientes e também em seus pedidos.
 
-[Gif com o funcionamento do Aplicativo](clideo_editor_77acc4eaaee24b55b3a7249ec3f42fd2.mp4)
+clideo_editor_77acc4eaaee24b55b3a7249ec3f42fd2.mp4
 
 ## Tela Inicial 
 
