@@ -63,4 +63,15 @@ O indicador fica positivo quando os gastos totais do período são 15% menores e
 
 O aplicativo criado tem o objetivo de controlar os pedidos de uma lanchonete. Nesse aplicativo é possível cadastrar observações nos clientes e também em seus pedidos.
 
+## Tela Inicial 
+
+![image](https://github.com/user-attachments/assets/842f0348-3238-4a99-a075-00883050152d)
+
+## Tela de Clientes 
+
+![image](https://github.com/user-attachments/assets/5b3f51a0-e0f4-48db-82d9-b21dec4cee37)
+
+## Tela de Pedidos 
+
+![image](https://github.com/user-attachments/assets/0a9e1f26-c0b2-4dae-ba51-bf242047b4e8)
 
