@@ -59,6 +59,8 @@ O indicador fica positivo quando os gastos totais do período são 15% menores e
 
 ![image](https://github.com/user-attachments/assets/90ca0ef7-9448-4e9b-89a2-bf61ca7a342f)
 
+### Criação de Aplicativo com o Power Apps 
 
+O aplicativo criado tem o objetivo de controlar os pedidos de uma lanchonete. Nesse aplicativo é possível cadastrar observações nos clientes e também em seus pedidos.
 
 
