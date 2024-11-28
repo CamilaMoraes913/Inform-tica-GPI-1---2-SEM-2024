@@ -83,10 +83,11 @@ O aplicativo criado tem o objetivo de controlar os pedidos de uma lanchonete. Ne
 
 ![image](https://github.com/user-attachments/assets/0a9e1f26-c0b2-4dae-ba51-bf242047b4e8) 
 
-## Atividade utilizando dados abertos 28/11/2024
+### Atividade utilizando dados abertos 28/11/2024
 
-### Quantidade de alunos estrangeiros por nacionalidade 
+## Quantidade de alunos estrangeiros por nacionalidade 
 
+O banco de dados de Alunos Estrangeiros por Nacionalidade apresenta o número de alunos estrangeiros matriculados em todas as redes de ensino do Estado, por nacionalidade.
 
 ![image](https://github.com/user-attachments/assets/5d14e317-75fe-4034-8c9a-372302682461)
 
