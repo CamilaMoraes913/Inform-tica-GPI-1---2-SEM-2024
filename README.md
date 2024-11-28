@@ -89,6 +89,8 @@ O aplicativo criado tem o objetivo de controlar os pedidos de uma lanchonete. Ne
 
 O banco de dados de Alunos Estrangeiros por Nacionalidade apresenta o número de alunos estrangeiros matriculados em todas as redes de ensino do Estado, por nacionalidade.
 
+[Arquivo da Atividade](https://github.com/CamilaMoraes913/Informatica-GPI-1---2-SEM-2024/blob/bb1b096015c4dc2d509c6456c812e2f9bc37af57/Quantidade%20de%20alunos%20estrangeiros%20por%20nacionalidade_2%C2%B0%20Semestre%202023.xlsx)
+
 ![image](https://github.com/user-attachments/assets/5d14e317-75fe-4034-8c9a-372302682461)
 
 
