@@ -81,5 +81,13 @@ O aplicativo criado tem o objetivo de controlar os pedidos de uma lanchonete. Ne
 
 ## Tela de Pedidos 
 
-![image](https://github.com/user-attachments/assets/0a9e1f26-c0b2-4dae-ba51-bf242047b4e8)
+![image](https://github.com/user-attachments/assets/0a9e1f26-c0b2-4dae-ba51-bf242047b4e8) 
+
+## Atividade utilizando dados abertos 28/11/2024
+
+### Quantidade de alunos estrangeiros por nacionalidade 
+
+
+![image](https://github.com/user-attachments/assets/5d14e317-75fe-4034-8c9a-372302682461)
+
 
